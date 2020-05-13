@@ -1,0 +1,23 @@
+.js-weather {
+    position: absolute;
+    font-style: italic;
+    font-size: 12px;
+    position: absolute;
+
+    display: table;
+
+    top: 25px;
+    right: 25px;
+}
+
+/*icon 조절*/
+.js-weatherIcon{
+    padding: 0;
+}
+
+.js-weatherText{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+  

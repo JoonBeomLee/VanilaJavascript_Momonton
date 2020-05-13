@@ -1,0 +1,15 @@
+.js-toDoList {
+    margin-bottom: 20px;
+}
+  
+.toDo {
+    font-size: 22px;
+}
+  
+.toDoListDelBtn {
+    background-color: rgb(0,0,0,0);
+    border: 0;
+    margin-right: 10px;
+    cursor: pointer;
+}
+  

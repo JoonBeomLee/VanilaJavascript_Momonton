@@ -1,0 +1,13 @@
+.chgImg-btn{
+    position: absolute;
+    font-style: italic;
+    font-size: 12px;
+    color: white; 
+    position: absolute;
+
+    top: 25px;
+    left: 25px;
+
+    background-color: rgb(0,0,0,0);
+    border: 0;
+}
